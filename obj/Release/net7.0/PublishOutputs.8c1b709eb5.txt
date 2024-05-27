@@ -1,0 +1,17 @@
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/FruitAPI
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/appsettings.json
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/FruitAPI.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/FruitAPI.deps.json
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/FruitAPI.runtimeconfig.json
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/FruitAPI.pdb
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Annotations.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
