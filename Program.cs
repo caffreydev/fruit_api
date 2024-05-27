@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -75,20 +76,6 @@ app.MapDelete("/fruitlist/{id}", async (int id, FruitDb db) =>
     return Results.NotFound();
 })
     .WithTags("Delete fruit by Id");
-
-app.MapPut("/fruitlist/buy/{id}/quantity-{number}", async (int id, FruitDb db, int number) =>
-{
-    if (await db.Fruits.FindAsync(id) is Fruit fruit && number > 0)
-    {
-        if (fruit.Quantity < number) return Results.Problem($"Can't buy {number} of {fruit.Name}, there are only {fruit.Quantity} available!");
-        fruit.Quantity = fruit.Quantity - number;
-        await db.SaveChangesAsync();
-        return Results.Ok(fruit);
-    }
-    return Results.NotFound();
-})
-.WithTags("Buy a quantity of fruit by id");
-
 
 app.UseSwagger();
 app.UseSwaggerUI();
