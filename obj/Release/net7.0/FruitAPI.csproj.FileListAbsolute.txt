@@ -36,3 +36,4 @@
 /Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/obj/Release/net7.0/FruitAPI.pdb
 /Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/obj/Release/net7.0/FruitAPI.genruntimeconfig.cache
 /Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/obj/Release/net7.0/ref/FruitAPI.dll
+/Users/joemccaffrey/Documents/training_courses/dotnetcore_cert_course/fruit_api/obj/Release/net7.0/FruitAPI.sourcelink.json
